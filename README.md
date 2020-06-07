@@ -1,2 +1,5 @@
-# hp
-Lagi lagi readme mengemvangkan sebuah produk unggulannya. Ke mungkinan nantinya di pasar kan di benua asia
+#handphone
+Lagi lagi readme mengembangkan 
+sebuah produk unggulannya.
+Ke mungkinan nantinya di 
+pasarkan di benua asia
